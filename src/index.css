@@ -1,0 +1,8 @@
+body {
+  padding: 1rem;
+}
+
+.attiva {
+  font-weight: bold;
+  color: red;
+}
